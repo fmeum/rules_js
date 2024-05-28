@@ -22,7 +22,10 @@ js_library(
 
 npm_package(
     name = "pkg",
-    srcs = [":lib_a"],
+    srcs = [
+        ":lib_a",
+        ":node_modules/chalk",  # this node_modules dep will be filtered out
+    ],
     visibility = ["//visibility:public"],
 )
 
