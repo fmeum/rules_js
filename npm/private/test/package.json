@@ -4,7 +4,7 @@
     "devDependencies": {
         "hello": "https://gitpkg.vercel.app/EqualMa/gitpkg-hello/packages/hello",
         "@figma/nodegit": "^0.28.0-figma.2",
-        "@kubernetes/client-node": "https://github.com/kubernetes-client/javascript#fc681991e61c6808dd26012a2331f83671a11218",
+        "@kubernetes/client-node": "https://github.com/kubernetes-client/javascript#5edaa91f1ca276283a0b42b52f56258c544e4e8c",
         "@plotly/regl": "2.1.2",
         "bufferutil": "4.0.7",
         "debug": "ngokevin/debug#9742c5f383a6f8046241920156236ade8ec30d53",
